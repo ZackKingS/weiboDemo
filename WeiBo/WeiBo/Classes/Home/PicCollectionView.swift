@@ -54,6 +54,7 @@ extension PicCollectionView : UICollectionViewDataSource , UICollectionViewDeleg
 
 
 extension PicCollectionView : AnimatorPresentedDelegate {
+    
     func startRect(indexPath: IndexPath) -> CGRect {
         // 1.获取cell
         let cell = self.cellForItem(at: indexPath as IndexPath)!

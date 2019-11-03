@@ -237,8 +237,8 @@
 			isa = PBXGroup;
 			children = (
 				B4E3C75C1EEFC275006B52BA /* PhotoBrowser */,
-				B447F47F1ED742D8005DBAB0 /* HomeModel */,
 				B4D6F9FC1ECFE5DA00DA609F /* UIPopover */,
+				B447F47F1ED742D8005DBAB0 /* HomeModel */,
 				B4C9788B1ECEC4CF001D640E /* Home.storyboard */,
 				B4C978801ECE8AEB001D640E /* HomeViewController.swift */,
 				B4F0F7141ED972A9009298EA /* HomeViewCell.swift */,

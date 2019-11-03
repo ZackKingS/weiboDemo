@@ -38,5 +38,7 @@ class Status: NSObject {
         }
     }
     
-    override func setValue(_ value: Any?, forUndefinedKey key: String) {  }
+    override func setValue(_ value: Any?, forUndefinedKey key: String) {
+        print("Status---key---\(key)")
+    }
 }
